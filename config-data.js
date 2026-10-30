@@ -29,8 +29,8 @@ window.__CONFIG = {
     "video": "videos/city-video.mp4"
   },
   "contact": {
-    "whatsapp": "https://wa.me/54951996802692",
-    "phone": "+54951996802692",
+    "whatsapp": "https://wa.me/51996802692",
+    "phone": "+51996802692",
     "email": ""
   },
   "social": {
@@ -364,7 +364,7 @@ window.__CONFIG = {
         "name": "Casa Vista al Mar Las Pocitas de Mancora",
         "description": "Casa Vista al Mar Las Pocitas de Mancora es tu refugio en Perú después de recorrer.",
         "url": "",
-        "telephone": "+54951996802692",
+        "telephone": "+51996802692",
         "email": "",
         "image": "",
         "sameAs": [
