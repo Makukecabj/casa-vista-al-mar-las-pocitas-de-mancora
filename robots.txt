@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://casa-vista-al-mar-las-pocitas-de-mancora.vercel.app/sitemap.xml
